@@ -1,4 +1,4 @@
-# C Text-editor
+# C text editor
 A lightweight text editor created in C based on antirez's kilo. 
 
 The project was created as a way to hone my C programming skills
